@@ -1,0 +1,59 @@
+{
+    "car": {
+        "make": "Mercedes",
+        "model": "GLC 300 4MATIC",
+        "year": "2024",
+        "color": "Black",
+        "specifications": {
+            "engine": {
+                "type": "2.0L Inline-4 Turbo",
+                "cylinders": "4",
+                "fuel": "Gasoline",
+                "horsepower": {
+                    "@units": "hp",
+                    "#text": "255"
+                },
+                "torque": {
+                    "@units": "lb-ft",
+                    "#text": "273"
+                }
+            },
+            "drivetrain": "All-Wheel Drive (AWD)",
+            "transmission": "9-speed automatic",
+            "fuelTankCapacity": {
+                "@units": "gallons",
+                "#text": "17.4"
+            }
+        },
+        "features": {
+            "feature": [
+                "Leather seats",
+                "Panoramic sunroof",
+                "Advanced safety features",
+                "Infotainment system with navigation"
+            ]
+        },
+        "dimensions": {
+            "length": {
+                "@units": "inches",
+                "#text": "183.3"
+            },
+            "width": {
+                "@units": "inches",
+                "#text": "74.4"
+            },
+            "height": {
+                "@units": "inches",
+                "#text": "64.5"
+            },
+            "wheelbase": {
+                "@units": "inches",
+                "#text": "113.1"
+            }
+        },
+        "price": {
+            "@currency": "$USD",
+            "#text": "43,200"
+        }
+    }
+}

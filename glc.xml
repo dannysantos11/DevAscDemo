@@ -1,0 +1,31 @@
+<car>
+    <make>Mercedes</make>
+    <model>GLC 300 4MATIC</model>
+    <year>2024</year>
+    <color>Black</color>
+    <specifications>
+        <engine>
+            <type>2.0L Inline-4 Turbo</type>
+            <cylinders>4</cylinders>
+            <fuel>Gasoline</fuel>
+            <horsepower units="hp">255</horsepower>
+            <torque units="lb-ft">273</torque>
+        </engine>
+        <drivetrain>All-Wheel Drive (AWD)</drivetrain>
+        <transmission>9-speed automatic</transmission>
+        <fuelTankCapacity units="gallons">17.4</fuelTankCapacity>
+    </specifications>
+    <features>
+        <feature>Leather seats</feature>
+        <feature>Panoramic sunroof</feature>
+        <feature>Advanced safety features</feature>
+        <feature>Infotainment system with navigation</feature>
+    </features>
+    <dimensions>
+        <length units="inches">183.3</length>
+        <width units="inches">74.4</width>
+        <height units="inches">64.5</height>
+        <wheelbase units="inches">113.1</wheelbase>
+    </dimensions>
+    <price currency="$USD">43,200</price>
+</car>
